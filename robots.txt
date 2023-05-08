@@ -1,0 +1,5 @@
+User-agent: googlebot
+
+Disallow: /assets/map/index.html
+
+Sitemap: https://liberam.es/sitemap.xml
